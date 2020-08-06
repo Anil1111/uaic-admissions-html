@@ -1,0 +1,31 @@
+table{
+    width:100%;
+}
+#example_filter{
+    float:right;
+}
+#example_paginate{
+    float:right;
+}
+label {
+    display: inline-flex;
+    margin-bottom: .5rem;
+    margin-top: .5rem;
+   
+}
+.greenColor{
+    font-weight: 700;
+    color:#2ecc71;
+}
+.yellowColor{
+    font-weight: 700;
+    color:#f39c12;
+}
+.redColor{
+    font-weight: 700;
+    color:#e74c3c;
+}
+.blueColor{
+    font-weight: 700;
+    color:#2980b9;
+}
